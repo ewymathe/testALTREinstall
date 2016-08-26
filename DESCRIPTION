@@ -40,7 +40,6 @@ Imports:
     stringr,
     tibble,
     BiocInstaller
-Remotes: bioc::release/org.Hs.eg.db
 License: GPL-2
 LazyData: TRUE
 RoxygenNote: 5.0.1
