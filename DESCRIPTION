@@ -31,7 +31,6 @@ Imports:
     readr,
     clusterProfiler,
     ensembldb,
-    org.Hs.eg.db,
     EnsDb.Hsapiens.v75,
     tidyr,
     GO.db,
@@ -40,6 +39,8 @@ Imports:
     stringr,
     tibble,
     BiocInstaller
+Suggests: org.Hs.eg.db
+biocViews: Annotation
 License: GPL-2
 LazyData: TRUE
 RoxygenNote: 5.0.1
