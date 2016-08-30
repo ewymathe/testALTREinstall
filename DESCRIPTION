@@ -38,9 +38,7 @@ Imports:
     venneuler,
     stringr,
     tibble,
-    BiocInstaller
-Suggests: org.Hs.eg.db
-biocViews: Annotation
+    org.Hs.eg.db
 License: GPL-2
 LazyData: TRUE
 RoxygenNote: 5.0.1
